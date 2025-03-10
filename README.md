@@ -1,3 +1,7 @@
+
+
+file:///C:/Users/202421811810029/Documents/GET-A-PETv2/Scan%20manga/index.html
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
