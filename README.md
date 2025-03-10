@@ -4,4 +4,4 @@ Zak aqui!,
 Lucas aqui tambem!
 
 <h1>Finos senhores</h1>
-<img src=https://br.pinterest.com/pin/602567625173437039/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-plain-wordmark.svg" width="50px"/>
